@@ -1,0 +1,10 @@
+[package]
+name = "passwordkit"
+description = "generate passwords and validate requirements"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+repository = "https://github.com/MatthiasSchild/passwordkit"
+
+[dependencies]
+rand = "0.10.0"
